@@ -1,0 +1,9 @@
+.mmd{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(118, 55, 235);
+    margin: 200px auto;
+    opacity: 0.8;
+    border-radius: 15px;
+    box-shadow: inset 5px 35px 52px red;
+}
